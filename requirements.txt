@@ -1,0 +1,9 @@
+torch>=2.3
+torchvision>=0.18
+numpy
+matplotlib
+seaborn
+scikit-learn
+pillow
+tqdm
+gradio>=5.0
