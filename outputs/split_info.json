@@ -1,0 +1,26 @@
+{
+  "train": {
+    "buildings": 1862,
+    "forest": 1930,
+    "glacier": 2043,
+    "mountain": 2135,
+    "sea": 1933,
+    "street": 2025
+  },
+  "val": {
+    "buildings": 329,
+    "forest": 341,
+    "glacier": 361,
+    "mountain": 377,
+    "sea": 341,
+    "street": 357
+  },
+  "test": {
+    "buildings": 437,
+    "forest": 474,
+    "glacier": 553,
+    "mountain": 525,
+    "sea": 510,
+    "street": 501
+  }
+}
